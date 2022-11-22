@@ -1,0 +1,69 @@
+#mobal{
+  display: none;
+}
+a{
+color:lightcyan;
+outline: none;
+text-decoration: none;
+}
+body{
+    background-color: #B1E1FF;
+    font-family: sans-serif ,serif;
+}
+h1{
+  color: #A66CFF;
+  font-size: 400%;
+  margin: 50px auto 0 auto;
+  font-family: cursive;
+}
+h2{
+    color: navy;
+}
+h3{
+    color: darkred;
+}
+.abbb{
+  color: #B1E1FF;
+  font-size: 200%;
+}
+.top{
+    color: rgb(17, 97, 83);
+    background-color: #AFB4FF;
+}
+.education{
+    background-color:#9C9EFE;
+}
+.languages{
+    background-color: #9C9EFE;
+}
+.atchievements{
+    background-color: #9C9EFE;
+}
+nav{
+    background-color: #9C9EFE;
+  }
+#Contact{
+    background-color: #892CDC;
+  }
+.aanm{
+  font-size: 500%;
+}
+  b{
+    color: #52057B;
+  }
+  .aanmm{
+    font-size: 200%;
+    font-weight: bold;
+  font-family: 'Sacramento', cursive;
+  }
+  .icons{
+    font-size:200%;
+  }
+@media (max-width: 600px) {
+  #mob{
+    display: none;
+  }
+  #mobal{
+    display: block;
+  }
+}
